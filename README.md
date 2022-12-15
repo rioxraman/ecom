@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## external libs 
+
+npm install @mui/material @mui/styled-engine-sc styled-components
+axios
+npm install @fontsource/roboto
+npm install @mui/icons-material
 
 ## Available Scripts
 
