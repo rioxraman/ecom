@@ -20,7 +20,7 @@ const Navbar = () => {
             </span>
           </Link> 
           <Link to={`/Cart`} style={{ textDecoration: "none" }}>
-          <span style={{ fontSize: "15px" }}>Cart</span>
+          <span className="mx text-white" style={{ fontSize: "15px" }}>Cart</span>
           </Link>
         </span>
         <div className="cart">
